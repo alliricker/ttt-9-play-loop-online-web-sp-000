@@ -40,6 +40,6 @@ def play(board)
   play = 0
   until counter == 9
     turn
-  turn += 1
+  play += 1
 end
-end 
+end
